@@ -24,4 +24,3 @@ void loop() {
   Joystick.send_now();
   delay(5);
 }
-
